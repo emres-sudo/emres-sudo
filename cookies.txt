@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cd28f1b0.limecube.co	TRUE	/	FALSE	1999999999	PHPSESSID	3maic2e9a69g0ualq31pq5jf6d
+
